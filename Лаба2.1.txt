@@ -1,5 +1,6 @@
 ЗАДАЧА 2.1.2. Максимум из 3 чисел(2)
 //help
+//help2
 
 #include <stdio.h>
 #include <Windows.h>
